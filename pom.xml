@@ -97,14 +97,14 @@
 	
 	    <repository>
 	      <id>nexus</id>
-	      <name>Mithun Technologies Releases Nexus Repository</name>
-	      <url>http://13.233.186.36:8081/repository/Axisbank-Release/</url>
+	      <name>maven Nexus Repository</name>
+	      <url>http://52.3.251.39:8081/repository/Maven-web-application-Release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://13.233.186.36:8081/repository/Axisbank-SNAPSHOT/</url>
+	      <name>maven Snapshot Nexus Repository </name>
+	      <url>http://52.3.251.39:8081/repository/Maven-web-application-Snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
